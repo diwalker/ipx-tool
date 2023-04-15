@@ -1,0 +1,2 @@
+ipAddress,isPublic,ipVersion,isWhitelisted,abuseConfidenceScore,countryCode,usageType,isp,domain,hostnames,totalReports,numDistinctUsers,lastReportedAt
+52.128.23.153,true,4,false,8,US,Data Center/Web Hosting/Transit,DOSarrest Internet Security Ltd,dosarrest.com,,15,2,2023-03-26T14:03:08+00:00
