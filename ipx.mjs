@@ -3,7 +3,7 @@ import csv from 'csv-parser';
 import fs from 'fs';
 import readline from 'readline';
 
-const API_KEY = '4fa6f7639b5ba104d98ab30b74b677b4e74d6aa8fdabd255af7065b7f772d1b8146ae2720fa099a5';
+const API_KEY = '';
 const url = 'https://api.abuseipdb.com/api/v2/check';
 
 const csv_columns = [
